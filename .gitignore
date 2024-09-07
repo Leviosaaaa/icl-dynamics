@@ -2,5 +2,6 @@ __pycache__/
 .ipynb_checkpoints/
 ih_paper_reprod/
 data/
+embeddings/
 .DS_Store
 *.png
