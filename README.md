@@ -124,11 +124,7 @@ We include notebook copies of [ih_paper_plots.ipynb](ih_paper_plots.ipynb) that 
 ```
 
 <a name="paper3"></a>
-## Reproducing paper 3
 
-In progress. Check back later.
-
-<a name="installation"></a>
 ## Installation
 
 See [setup.md](setup.md) for instructions for various CUDA driver versions.
